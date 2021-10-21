@@ -58,11 +58,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#lemons">Lemons</a></li>
+        <li><a href="#base-car">Base Car</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#engine-swap">Engine Swap</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -98,26 +99,28 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+### Lemons
 
-### Built With
+24hrs of Lemons is a endurance race of "junk" cars. It was an event that offers a low cost of entry lots of track time. Judging by the YouTube videos it looks like a lot of fun "racing" with other gearheads. The hunt was on for a cheap car that would git the criteria of $500.
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+
+### Base Car
+
+Our purchased car is a clapped out 1986 944 turbo that needed to he put back together after the owner, "had a heart attack while doing a headgasket replacement." Cool head gasket isn't too bad. If we sold things we didn't need like the black leather sport interiors we could recoup some the cost of blowing the $500 budget. Unfortunately there were some skeltons in the closet. These skeltons were so plentiful and dangerous that we ultimately decided to not spend all of our time building a shit box. We'd keep costs low where possible but we wanted a safe and reliable car.
+
+* [Generic Allthread head stud](https://nextjs.org/)
+* [Rust in cylinder walls](https://reactjs.org/)
+* [Melty wiring](https://vuejs.org/)
+* [Sketch stuff](https://angular.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Engine Swap -->
+## Engine Swap
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
