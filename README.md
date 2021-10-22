@@ -118,6 +118,21 @@ The Boost Brothers Kit has custom parts needed for the swap. Later on they also 
 * Rear Coolant Fitting
 * etc.
 
+#### Base Engine
+
+The base engine is out of a 2014 automatic passat, it was supposed to have only 60k on it so we will see how it holds up. The down side is the drivers side engine mount interferes with the BBG bracket slightly. This will have to be clearenced around on of the sensors, auto transmission perhaps.
+
+#### Oil Pans
+
+The 07k engine has and upper pan and a lower pan. In the BBG kit the upper pan is reworked and the lower is completely fabricated to allow for clearance to the 944 cross member.
+When fitting the upper pan, it was found out that the original hardware won't quite clear the welds. We opted for new cap bolts and washers for fasten the 8 outer bolts that were not internal to the engine. The bolts used were M8x1.25 25. 
+
+#### Fuel
+
+Our base engine didn't come with a fuel rail or injectors. We could have spent money at the junk yard but we knew stock injectors would not flow what we needed and billet things are nice so the IE billet fuel rail was sourced. Also [Siemens Deka](https://www.fiveomotorsport.com/siemens-deka-high-flow-extended-nozzle/) 60lb/hr injectors are used for the build.
+Following the BBG parts list we purchased a fuel regulator and gauge to help troubleshoot any fuel issues should they pop up.
+Most likely we will opt for the Bosche 044 pump but that is still a future purchase.
+
 ### Engine Development
 
 Being true to the race car, it was decided AC and heat were not necessary. So we decided to not plumb those systems and remove everything we could.
