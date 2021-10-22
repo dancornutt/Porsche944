@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/dancornutt/Porsche944/blob/master/images/945-race-car.jpg)
 
 This project started as a partnership with Dana and Dan to turn wrenches and get some track time in. We liked the idea of endurance racing and splitting the cost would make it cheaper and more fun. In the words of Ricky Bobby, "I wanna go fast" but honestly we don't need to be first.
 
