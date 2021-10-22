@@ -33,19 +33,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">944 Turbo Race Car</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    The story of making a clapped out car go fast again.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,16 +55,21 @@
       </ul>
     </li>
     <li>
-      <a href="#engine-swap">Engine Swap</a>
+      <a href="#engine">Engine</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#boost-brothers-kit">Boost Brothers Kit</a></li>
+        <li><a href="#engine-developement">Engine Development</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li>
+      <a href="#chassis">Chassis</a>
+      <ul>
+        <li><a href="#brakes">Brakes</a></li>
+        <li><a href="#clutch">Clutch</a></li>
+        <li><a href="#suspension">Suspension</a></li>
+         <li><a href="#steering">Steering</a></li>
+      </ul>
+    </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -85,30 +82,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+This project started as a partnership with Dana and Dan to turn wrenches and get some track time in. We liked the idea of endurance racing and splitting the cost would make it cheaper and more fun. In the words of Ricky Bobby, "I wanna go fast" but honestly we don't need to be first.
 
 
 ### Lemons
 
 24hrs of Lemons is a endurance race of "junk" cars. It was an event that offers a low cost of entry lots of track time. Judging by the YouTube videos it looks like a lot of fun "racing" with other gearheads. The hunt was on for a cheap car that would git the criteria of $500.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ### Base Car
 
-Our purchased car is a clapped out 1986 944 turbo that needed to he put back together after the owner, "had a heart attack while doing a headgasket replacement." Cool head gasket isn't too bad. If we sold things we didn't need like the black leather sport interiors we could recoup some the cost of blowing the $500 budget. Unfortunately there were some skeltons in the closet. These skeltons were so plentiful and dangerous that we ultimately decided to not spend all of our time building a shit box. We'd keep costs low where possible but we wanted a safe and reliable car.
+Our purchased car is a 1986 944 turbo that was hit with the ugly stick. It needed to be put back together after the owner, "had a heart attack while doing a headgasket replacement." Cool head gasket isn't too bad. If we sold things we didn't need like the black leather sport interiors we could recoup some the cost of blowing the $500 budget. Unfortunately there were some skeltons in the closet. These skeltons were so plentiful and dangerous that we ultimately decided to not spend all of our time building a shit box. We'd keep costs low where possible but we wanted a safe and reliable car.
 
 * [Generic Allthread head stud](https://nextjs.org/)
 * [Rust in cylinder walls](https://reactjs.org/)
@@ -118,64 +102,70 @@ Our purchased car is a clapped out 1986 944 turbo that needed to he put back tog
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- Engine -->
+## Engine
 
-<!-- Engine Swap -->
-## Engine Swap
+With the original engine in full sketch mode in need of rebuilding the decision of dumping thousands into rebuilding an engine developed in the 70s or engine swapping was simple. Engine swap it. Knee jerk reaction was ls it and move but as Jordan Perterson said, "Life is Suffering" so why not make it more complicated. Some smart folks on the interwebs started kicking around the idea of a turbo 5 cylinder in the 944. Hearing the sweet sweet sound of 80's urquattros was a big motivator. It was decided, join the early few to put up money for the kit. Big thanks to Alan, without him it would just be forum chatter.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Boost Brothers Kit
 
-### Prerequisites
+The Boost Brothers Kit has custom parts needed for the swap. Later on they also offered a stand alone ECU and custom harness which was opted for.
+* Bellhousing
+* Intake Manifold
+* Motor Mounts
+* Custom Upper and Lower Oil Pans
+* Valve Cover
+* Rear Coolant Fitting
+* etc.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Engine Development
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Being true to the race car, it was decided AC and heat were not necessary. So we decided to not plumb those systems and remove everything we could.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Chassis
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
+### Brakes
+
+The brakes were not operation when we purchased the car. The seller stated they didn't work because the engine wasn't running. Yeah. Red flag.
+
+
+### Clutch
+
+The Clutch was also not operational when we purchased the car. It went straight to the floor.
+
+The BBG kit supplied a new flywheel, clutch disk and pressure plate. Simple purchase.
+
+
+### Suspension
+
+Suspension stuff here.
+
+
+### Steering
+
+Steering stuff here.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [] Add Additional Templates w/ Examples
-- [] Add "components" document to easily copy & paste sections of the readme
-- [] Multi-language Support
-    - [] Chinese
-    - [] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Buy Car
+- [x] Buy enough things you must go forward with project
+- [] Engine in
+- [] First start
+- [] First drive
+- [] Shakedown
+- [] Cage Install
+- [] Full race car prep 2022 season
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,10 +174,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -211,9 +198,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Dan's twitter - [@dancornutt](https://twitter.com/dancornutt)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Dana's contact - ?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -222,16 +209,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Without the significant contributes from the people below, this project wouldn't be possible.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Alan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Boost Brothers Garage](https://www.boostbrothersgarage.com/)
+* [Rennlist Forum](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread.html)
+* [Steve](http://aswest.net/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
