@@ -2,9 +2,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">944 Turbo Race Car</h3>
 
@@ -52,8 +49,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://github.com/dancornutt/Porsche944/blob/master/images/945-race-car.jpg" alt="Porsche 944 Turbo" title="Car Delivery" />
 
 This project started as a partnership with Dana and Dan to turn wrenches and get some track time in. We liked the idea of endurance racing and splitting the cost would make it cheaper and more fun. In the words of Ricky Bobby, "I wanna go fast" but honestly we don't need to be first.
 
