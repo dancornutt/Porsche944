@@ -76,6 +76,7 @@ Our purchased car is a 1986 944 turbo that was hit with the ugly stick. It neede
 
 With the original engine in full sketch mode in need of rebuilding the decision of dumping thousands into rebuilding an engine developed in the 70s or engine swapping was simple. Engine swap it. Knee jerk reaction was ls it and move but as Jordan Perterson said, "Life is Suffering" so why not make it more complicated. Some smart folks on the interwebs started kicking around the idea of a turbo 5 cylinder in the 944. Hearing the sweet sweet sound of 80's urquattros was a big motivator. It was decided, join the early few to put up money for the kit. Big thanks to Alan, without him it would just be forum chatter.
 
+
 ### Boost Brothers Kit
 
 The Boost Brothers Kit has custom parts needed for the swap. Later on they also offered a stand alone ECU and custom harness which was opted for.
@@ -87,9 +88,32 @@ The Boost Brothers Kit has custom parts needed for the swap. Later on they also 
 * Rear Coolant Fitting
 * etc.
 
+07k installation tips:
+1) Dont install the starter or RH engine mount until the engine is in the car
+2) Mount the lower sump with the engine out of the car.
+3) Lowering the crossmember makes it possible, dropping it completely makes it a piece of cake.
+If the clutch disk isn't right on center, the tip of the driveshaft isnt going to line up with the pilot bearing. Also, we recommend removing the crossmember completely so you have a clear path to align the engine with the torque tube. And, use an engine leveler on your engine hoist to get it at the correct angle (fore/aft). It also needs to be clocked pretty close to 15 degrees (tilted toward psgr side) so that after you get the engine all the way back, you can get the four torque tube bolts into the back of the bellhousing. Another thing we found helps if the driveshaft spline doesnt want to go into the clutch disk, spin the crank using a strap wrench around the crank pulley while you push the engine back. I know you got further than this, but these tips might help others as well.
+Other major things to install on the engine before dropping it in: upper oil pan and pickup, oil sump, flywheel, pilot bearing adapter, clutch disk, bellhousing, TOB. Optional: psgr side engine mount.
+
+For the m8 (class 10.9) hex head bolts that fasten the engine mount brackets: 28-30 ft-lb.
+
+For the one m10 (class 10.9) hex head bolt that fastens the driver side engine mount bracket: 55-60 ft-lb.
+
+For the flywheel bolts are m10 x 1.0 (class 12.9), VW factory flywheel bolt torque spec, around 64 ft-lb or APR recommendation.
+
+Note that the stainless steel bolts should not be torqued to the same values as class 10.9 bolts (that would break their heads off). I would basically just snug them up and then maybe an addition 1/8 turn. Optionally, use Loctite blue to prevent them from backing out. I provided SS bolts for cosmetic reasons, in places where the loads are much lower. 
+
 #### Base Engine
 
 The base engine is out of a 2014 automatic passat, it was supposed to have only 60k on it so we will see how it holds up. The down side is the drivers side engine mount interferes with the BBG bracket slightly. This will have to be clearenced around on of the sensors, auto transmission perhaps.
+
+From Mike ag BBG:
+2008 and up for the upgraded timing chain. I personally like the 2008-2010 because they still have a standard mechanically controlled oil pump. 2011+ aren't a problem though. 
+
+
+#### Accessory
+
+High RPMs will throw belts if the 07k stock front crank pulley is used. To get around this the TTRS/RS3 crank pulley is used which has a viscous center to reduce high RPM vibration, part number 07K105243H.
 
 #### Cooling
 Per Alan's post on the RL forum: 
@@ -132,7 +156,18 @@ Turbo water outlet -> 3/8" port on tee
 
 The clutch and flywheel was sourced from BBG, they did all the hard work. Thanks!
 
-The throwout brearing/slave cylinder is off of a Pontiac GTP. To use it a hydralic adaptor is needed.
+The throwout brearing is from a Solstice GXP hydraulic TOB (24234308). To use it a hydralic adaptor, Kappadapt Stainless Clutch Fitting adapter to -4AN with 2 o-rings (CHK101-2) is needed. An adaptor is needed from the Kappadapt, Earl’s AT9919BFEERL, Adapter M12 x 1.0 to -4AN. The line from the slave cylinder to TOB is Jegs 635158, 24” stainless braided Teflon lined hydraulic hose with -4AN ends (one straight, one 90).
+
+Clutch and Flywheel:
+- SPEC 02M aluminum flywheel (SV81A)
+- SPEC 02M pressure plate
+- SPEC 944 Turbo disk
+* Optional ARP crank bolts (higher strength than OEM)
+
+Steps:
+  1) Make sure you have the crank position sensor impulse rotor installed
+  2) Do not use the stock flywheel shims with new flywheel & clutch kit
+
 
 #### Oil Pans
 
@@ -168,13 +203,14 @@ Steps:
   6.2) Clean and prep surfaces
   6.3) Apply 1.8-2mm bead of sealant to surface
   6.4) Put in a few fasterners by hand so it doesn't slide around on you
-  6.5) Torque to spec ##Value needed##
+  6.5) Torque to 25 Nm
 7) Install upper chain cover
   7.1) Clean and prep surfaces
   7.2) Apply 1.8-2mm bead of sealant to surface
   7.3) Put in a few fasterners by hand so it doesn't slide around on you
   7.4) Torque to 10 Nm
   * Don't forget the 4 (1 external, 3 internal) bolts that go from top down into the lower timing cover
+
 
 #### Fuel
 
@@ -183,21 +219,38 @@ Following the BBG parts list we purchased a fuel regulator and gauge to help tro
 
 Most likely we will opt for the Bosche 044 pump but that is still a future purchase.
 
+BBG set fuel pressure to 43.5 psi for the turbo tune with large 60 lb/hr injectors.
+
+When installing the fuel injectors, Alan said:
+For our cast aluminum manifold, make sure you install the injectors into the intake manifold first, individually. Also best to use some sort of lube on the injector o-rings such as a dielectric grease. The injector ports are the same size as the ones in the factory manifold, but require some effort to insert the injectors. If you leave the injectors in the rail and try to install it as an assembly you risk them not seating into the manifold properly.
+
+#### Oil System
+The 2012 07k engine used for the sway has an oil pressure regulating valve. The driver's engine mount had to be clearanced to allow the bracket to work with the valve. The valve when not hooked up defaults to high pressure mode which is what will be ran at all times.
+
 
 ### Engine Development
 
 Being true to the race car, it was decided AC and heat were not necessary. So we decided to not plumb those systems and remove everything we could.
 
+#### Intake
+
+The BBG custom intake manifold was used. This manifold has (2) 1/4" NPT ports and (4) 1/8" NPT ports.
 
 #### Turbo System
 
 Our turbo system isn't completely finalized. Initially the Lamborghini header was going to be used with a v-band and internally gated turbo. The Lamborghini header almost bolts up to the 07k. Only one stud doesn't quite align. When it all came together it was decided a good clamp up for the exhaust is needed.
 
-The current plan is using a SPA manifold, same turbo as Alan G25-660 and a Tial 38mm two bolt wastegate.
+The current plan is 
+- SPA manifold
+- Same turbo as Alan, Garrett [G25-660](https://www.atpturbo.com/mm5/merchant.mvc?Screen=PROD&Store_Code=tp&Product_Code=GRT-TBO-637&Category_Code=G) reverse rotation turbo, part # 871390-5011S G25-660. Turbo is oil and water cooled, includes -4AN oil feed fitting and -6AN coolant/water fittings. 
+- External waste gate will is Tial MVS 38mm vband
+- T3 to v-band adaptor is needed between the tu(rbo and header
+- Longer exhaust head studs are needed, m8 x 1.25 55mm long
+)
+* Optional - Use 2 bolt 38mm to [vband adaptor](https://www.extremepsi.com/store/Torque-Solution-38mm-2-bolt-to-38mm-V-band-MVS-Wastegate-Adapter.html) for wastegate and v-band wastegate to clock wastegate to exit rear
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ## Chassis
@@ -224,11 +277,13 @@ Suspension stuff here.
 
 ### Steering
 
-Steering stuff here.
+Power Steering was removed. The 07k uses a dual belt system. The crank pulley drives the PS pump which has uses a pulley with two belt provisions, the other drives the water pump and alternator.
+
+Cjar from the forum said this:
+My car also has manual steering, I pulled apart an ebay AC compressor and just mounted the front half with the stock VW pulley to hold the place and make the belt routing complete. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
 ## Roadmap
 
 - [x] Buy Car
@@ -266,10 +321,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
+Sorry we are off the social media grid.
 
 Dan's twitter - [@dancornutt](https://twitter.com/dancornutt)
 
@@ -290,21 +344,3 @@ Without the significant contributes from the people below, this project wouldn't
 * [Steve](http://aswest.net/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
