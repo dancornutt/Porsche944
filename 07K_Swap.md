@@ -202,7 +202,10 @@ There are two schools of thought on the breather system or crankcase ventilation
 
 In either method, crankcase venting will happen at the valve cover & at the adapter block both are -10 AN lines.
 
-For this build we are going down the route of option #2. More to come as we.
+For this build we are going down the route of option #2 using an air/oil separator seen below. More to come as we.
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLVpvzJ0vXCWMxkf3mz68OsQ9i_QHLeLusuGXtmWPSQ89rK3-5MemyPkV_-aVPV6n9om8B20l9bMqQ0CUM8io9eABX99ZtD2vPoAUA4UaOo3XrhipMMma17JR7J2jFkOuz9pERV_OQmfmvPzgu2URhH1=s140-no?authuser=0"></img>
+</div>
 
 
 ### Crank Pulley
@@ -316,13 +319,13 @@ Our turbo system isn't completely finalized. Initially the Lamborghini header wa
 
 
 ### Turbo
-Same turbo as Alan, Garrett [G25-660](https://www.atpturbo.com/mm5/merchant.mvc?Screen=PROD&Store_Code=tp&Product_Code=GRT-TBO-637&Category_Code=G) reverse rotation turbo, part # 871390-5011S G25-660. Turbo is oil and water cooled, includes -4AN oil feed fitting and -6AN coolant/water fittings. 
+We will be using the same turbo as Alan, Garrett [G25-660](https://www.atpturbo.com/mm5/merchant.mvc?Screen=PROD&Store_Code=tp&Product_Code=GRT-TBO-637&Category_Code=G) reverse rotation turbo, part # 871390-5011S G25-660. Turbo is oil and water cooled, includes -4AN oil feed fitting and -6AN coolant/water fittings. 
 
 
 ### Exhaust Manifold
 
 We will be using a SPA manifold.
-Longer exhaust head studs are needed, m8 x 1.25 55mm long. We did fancy things and bought inconel ones because, you know race
+Longer exhaust head studs are needed, m8 x 1.25 55mm long. We did fancy things and bought inconel ones because, you know race car.
 
 
 ### Wastegate
@@ -435,7 +438,12 @@ More details coming "soon"
 ### Oil Pan
 
 The 07k engine has and upper pan and a lower pan. In the BBG kit the upper pan is reworked and the lower is completely fabricated to allow for clearance to the 944 cross member.
-When fitting the upper pan, it was found out that the original hardware won't quite clear the welds. We opted for new cap bolts and washers for fasten the 8 outer bolts that were not internal to the engine. The bolts used were (8) M8x1.25 25. 
+When fitting the upper pan, it was found out that the original hardware won't quite clear the welds. We opted for new cap bolts and washers for fasten the 8 outer bolts that were not internal to the engine. The bolts used were (8) M8x1.25 25. Also inspect around the oil return bung, I had to slighly file down the aluminum weld such that the upper pan would sit flush.
+
+<h1>Clean Surfaces</h1>
+
+
+<h1>Install Upper Pan</h1>
 
 It was recommended by Mike at BBG that you remove the rear lower and upper chain covers. This would provide a simple "drop in" for the upper pan vs trying to maintain a good seal while attaching to two perpendicular surfaces (block and rear lower chain cover).
 
@@ -444,24 +452,39 @@ For the oil pans and chain covers, volkswagen D 176 501 A1 was used. D 154 103 A
 Steps:
 1) Disassemble everyting you need to
 2) Prep sealant surfaces (both sides of upper pan, block and lower pan by removing debris and cleaning.
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLVJy6tu5d0P-s2Twty4dpLh2IkrZZHHQ0FzgTryCB6wu_qBOyyNartOSpGHpY7lYE3D8b6G2kGt8GqkNiMfpkl9_v5fb_8rf8pxXpfY7l4Lv583ciLGGmGvcMq3JMzZEXhTzyph1-KCEH74GvLMFfRm=w1224-h1630-no?authuser=0" alt="07K block ready for upper pan" width="400"/>
+</div>
 3) Install upper Pan
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLVIW1o67dIl50iXoUTprW_KzXpJsLiBq1JogXLDiYLIAvVqrqo4X7Qns6jeFB1nNIhD7URPE6vv0YjgEYB1pd3Kps7QcWmczdNBA6auhZg3VGpfE5uLrvUbAGIlap1yjFcYq6ALRmWkWd7Vk32xIG6A=w1224-h1630-no?authuser=0" alt="Install upper pan" width="400"/>
+</div>
   3.1) Confirm chain guard is on upper pan, if not stop what you are doing and find it.
   3.2) Apply 1.8-2mm bead of sealant to surface
   3.3) Carefully set upper pan on surface, immediately put in a few bolts by hand so it doesn't slide around
   3.4) Run down all bolts by hand
   3.5) Torque bolts to 20 Nm
 4) Install pickup tube
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLXVEbgEMq9PameGkI8DdOvv6wkZ9b0fAY7awnfYP0gVSDI6JAHYchBm6fNez6WM8CIYkArjCmHB2nUuSyyVk1LGju3HOTYZCozjLMNhRsO7U4aws_b1xJXHL1Td5uRTU-DbEnCAWJ3rRLA6rtCNqCg2=w1224-h1630-no?authuser=0" alt="Install upper pan" width="400"/>
+</div>
   4.1) Check pickup tube for debris, blow out
   4.2) Check torque on fasteners
   4.3) Install pickup tube with keeper and bolt, apply blue loctite to threads
   4.4) Install pickup tube cap bolts to secure to upper pan, apply blue loctite to threads
 5) Install Lower Pan
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLX2GMjdFN4cMwUIKauHxKoJmB_shrdZ9Wq_GkxbJvkkKqPkSYPWEOjbRPl8nqnVFCKf7tPHP2zodtfvMckespqju11EAGj380EwgCTbUDswGXppXJxLbxK0d0AG36Zqj5LjYMHMEfDQ3NHaoWcU6APg=w1224-h1630-no?authuser=0" alt="Install lower pan" width="400"/>
+</div>
   5.1) BBG kit sent an allen long socket with ball end. This tool is sweet and very much needed for installation of the lower pan. Use it.
   5.2) Apply 1.8-2mm bead of sealant to surface.
   5.3) Install a few fasterners by hand so it doesn't slide around on you
   5.4) Install rest of fasterners by hand
   5.5) Torque fasteners to 10 Nm
 6) Install lower chain cover
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLXXuFllZ9xJg5EmWsOrVg--Zv7eC7bUUiUQmf1DuNJrIGRZThb44zhnJ8Ok0esoXIdUYHtoXa5H3QFqkUKZ3R72mn04-6puGOam2X4n1ONqmkppf0Pb--kEBpKUieSh_hYZihNfpLOa2A4YHP_5IE0j=w1224-h1630-no?authuser=0" alt="Engine with rear chain covers off" width="400"/>
+</div>
   6.1) Is your CPS (crank position sensor) installed on the rear chain cover? I would install it to the cover first.
   6.2) Clean and prep surfaces
   6.3) Apply 1.8-2mm bead of sealant to surface
@@ -473,7 +496,9 @@ Steps:
   7.3) Put in a few fasterners by hand so it doesn't slide around on you
   7.4) Torque to 10 Nm
   * Don't forget the 4 (1 external, 3 internal) bolts that go from top down into the lower timing cover
-
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLXB5L4q-BFWYQicSopsiluvw_YaQq-nJoAN3jIZptJ1YAgb1COae-5RNfQRvlj2z_94WYW_2TijiclkE3fDWk5y0SWHzyoCbenCjmK2GhouZ_-EXrZ5JW0Ks5oJysj-vIKHgTAsTIPJcA4OTvskLOn0=w1224-h1630-no?authuser=0" alt="Engine with rear chain covers on" width="400"/>
+</div>
 
 ### Oil Routing
 
