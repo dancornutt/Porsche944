@@ -535,13 +535,13 @@ If you have a suggestion that would make this better, please fork the repo and c
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
@@ -563,6 +563,5 @@ Without the significant contributes from the people below, this project wouldn't
 * [Alan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Boost Brothers Garage](https://www.boostbrothersgarage.com/)
 * [Rennlist Forum](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread.html)
-* [Steve](http://aswest.net/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
