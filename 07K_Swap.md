@@ -106,11 +106,11 @@
   <img src="https://lh3.googleusercontent.com/pw/AM-JKLWOjUit0CkQeU-JUN8iPu8qsVcEf71RXemidwCuGrlsemiu8iB0BvUN1PkTXPu1APmtjDRg_xTPsj2lNLqKEZrlTccaM1yyfkkq2h_VZGiJQRGmvwpmtCA56k26Rcc-UO_OezEQF8RURnimI-n9LS4n=w1224-h1630-no?authuser=0" alt="944 As Purchases" width="300"/>
 </div>
 
-Getting the 07k in a 944 is fairly straight foward thanks to those who pinoneered it. You'll need the Boost Brothers Garage (BBG) Kit and some other items but there is no major cutting or fabrication needed other than the exhaust and intake plumbing.
+Getting the 07k in a 944 is fairly straightfoward thanks to those who pioneered it. You'll need the Boost Brothers Garage (BBG) Kit and some other items but there is no major cutting or fabrication needed other than the exhaust and intake plumbing.
 
-Our swap car as seen above is pretty gutted, engine had been in a fire and also say in the elements which rusted out the cylinder walls.
+Our swap car as seen above is pretty gutted, the engine had been in a fire and also sat in the elements which rusted out the cylinder walls.
 
-The base engine is out of a 2014 automatic passat, it was supposed to have only 60k on it so we will see how it holds up. The down side is the drivers side engine mount interferes with the BBG bracket slightly. This will have to be clearenced around on of the sensors, auto transmission perhaps.
+The base engine is out of a 2014 automatic passat, it was supposed to have only 60k on it so we will see how it holds up. The down side is the drivers side engine mount interferes with the BBG bracket slightly. This will have to be clearanced around one of the sensors, auto transmission perhaps.
 
 
 ### General Information
@@ -183,7 +183,7 @@ Note that the stainless steel bolts should not be torqued to the same values as 
 
 ## Accessories
 
-Power Steering was removed. The 07k uses a dual belt system. The crank pulley drives the PS pump which has uses a pulley with two belt provisions, the other drives the water pump and alternator.
+Power Steering was removed. The 07k uses a dual belt system. The crank pulley drives the PS pump which uses a pulley with two belt provisions, the other drives the water pump and alternator.
 
 Our car has manual steering. Not sure exactly how this will pan out but Cjar from the RL forum said this:
 My car also has manual steering, I pulled apart an ebay AC compressor and just mounted the front half with the stock VW pulley to hold the place and make the belt routing complete. 
@@ -203,7 +203,7 @@ The donor engine did not come with an alternator. A new stock 07k alternator p/n
 
 There are two schools of thought on the breather system or crankcase ventilation
 - 1) Vent to atmosphere and use a catch can to collect excess oil vapors
-- 2) Use recirculation system to separate oil vapors in crankcase blowby, plumb "air" back into into and put oil back into pan.
+- 2) Use recirculation system to separate oil vapors in crankcase blowby, plumb "air" back into intake and put oil back into pan.
 
 In either method, crankcase venting will happen at the valve cover & at the adapter block both are -10 AN lines.
 
@@ -215,12 +215,12 @@ For this build we are going down the route of option #2 using an air/oil separat
 
 ### Crank Pulley
 
-The stock crank pulley definately works but there have been documented cases of throwing belts at higher RPMs. To get around this use the TTRS/RS3 crank pulley, p/n: 07K105243H. Audi uses a viscous center pulley to reduce the high RPM vibration and keep your belts, well belted.
+The stock crank pulley definitely works but there have been documented cases of throwing belts at higher RPMs. To get around this use the TTRS/RS3 crank pulley, p/n: 07K105243H. Audi uses a viscous center pulley to reduce the high RPM vibration and keep your belts, well belted.
 
 
 ### Power Steering Pump
 
-The original power steering pump will not work with this swap. The swap allows use of a 1.8t power steering pulley and to have it relocated to the lower most location on the accessory bracket.
+The original power steering pump will not work with this swap. The swap allows use of a 1.8t power steering pulley and to have it relocated to the lowermost location on the accessory bracket.
 
 
 ### Valve Cover
@@ -249,7 +249,7 @@ Clutch kit from BBG was used, it contains:
 
 ### Flywheel
 
-The Aluminum flywheel was sourced from BBG. We aren't going with the 8 bolt TTRS forged crank so the stock 07k 6 bolt flyweel was used.
+The Aluminum flywheel was sourced from BBG. We aren't going with the 8 bolt TTRS forged crank so the stock 07k 6 bolt flywheel was used.
 - SPEC 02M aluminum flywheel (SV81A)
 
 To give a little extra insurance, ARP crank bolts are to be used. ARP p/n: 1512801 appears to be the correct fasteners for this application.
@@ -261,7 +261,7 @@ Installation Tips:
 
 ### Throwout Bearing
 
-The throwout brearing is from a Solstice GXP hydraulic TOB (24234308). To use it a hydralic adaptor, Kappadapt Stainless Clutch Fitting adapter to -4AN with 2 o-rings (CHK101-2) is needed. An adaptor is needed from the Kappadapt, Earl’s AT9919BFEERL, Adapter M12 x 1.0 to -4AN. The line from the slave cylinder to TOB is Jegs 635158, 24” stainless braided Teflon lined hydraulic hose with -4AN ends (one straight, one 90).
+The throwout bearing is from a Solstice GXP hydraulic TOB (24234308). To use it a hydraulic adaptor, Kappadapt Stainless Clutch Fitting adapter to -4AN with 2 o-rings (CHK101-2) is needed. An adaptor is needed from the Kappadapt, Earl’s AT9919BFEERL, Adapter M12 x 1.0 to -4AN. The line from the slave cylinder to TOB is Jegs 635158, 24” stainless braided Teflon lined hydraulic hose with -4AN ends (one straight, one 90).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -294,7 +294,7 @@ We could have spent money at the junk yard for a stock fuel rail but where's the
 
 ### Fuel Pump
 
-Most likely we will opt for the Bosche 044 pump but that is still a future purchase.
+Most likely we will opt for the Bosch 044 pump but that is still a future purchase.
 
 
 ### Fuel Lines
@@ -443,7 +443,7 @@ More details coming "soon"
 ### Oil Pan
 
 The 07k engine has and upper pan and a lower pan. In the BBG kit the upper pan is reworked and the lower is completely fabricated to allow for clearance to the 944 cross member.
-When fitting the upper pan, it was found out that the original hardware won't quite clear the welds. We opted for new cap bolts and washers for fasten the 8 outer bolts that were not internal to the engine. The bolts used were (8) M8x1.25 25. Also inspect around the oil return bung, I had to slighly file down the aluminum weld such that the upper pan would sit flush.
+When fitting the upper pan, it was found out that the original hardware won't quite clear the welds. We opted for new cap bolts and washers for fasten the 8 outer bolts that were not internal to the engine. The bolts used were (8) M8x1.25 25. Also inspect around the oil return bung, I had to slightly file down the aluminum weld such that the upper pan would sit flush.
 
 <h1>Clean Surfaces</h1>
 
@@ -455,7 +455,7 @@ It was recommended by Mike at BBG that you remove the rear lower and upper chain
 For the oil pans and chain covers, volkswagen D 176 501 A1 was used. D 154 103 A1 will be used for the timing cover.
 
 Steps:
-1) Disassemble everyting you need to
+1) Disassemble everything you need to
 2) Prep sealant surfaces (both sides of upper pan, block and lower pan by removing debris and cleaning.
 <div style="text-align: center;">
   <img src="https://lh3.googleusercontent.com/pw/AM-JKLVJy6tu5d0P-s2Twty4dpLh2IkrZZHHQ0FzgTryCB6wu_qBOyyNartOSpGHpY7lYE3D8b6G2kGt8GqkNiMfpkl9_v5fb_8rf8pxXpfY7l4Lv583ciLGGmGvcMq3JMzZEXhTzyph1-KCEH74GvLMFfRm=w1224-h1630-no?authuser=0" alt="07K block ready for upper pan" width="400"/>
@@ -483,8 +483,8 @@ Steps:
 </div>
   5.1) BBG kit sent an allen long socket with ball end. This tool is sweet and very much needed for installation of the lower pan. Use it.
   5.2) Apply 1.8-2mm bead of sealant to surface.
-  5.3) Install a few fasterners by hand so it doesn't slide around on you
-  5.4) Install rest of fasterners by hand
+  5.3) Install a few fasteners by hand so it doesn't slide around on you
+  5.4) Install rest of fasteners by hand
   5.5) Torque fasteners to 10 Nm
 6) Install lower chain cover
 <div style="text-align: center;">
@@ -493,12 +493,12 @@ Steps:
   6.1) Is your CPS (crank position sensor) installed on the rear chain cover? I would install it to the cover first.
   6.2) Clean and prep surfaces
   6.3) Apply 1.8-2mm bead of sealant to surface
-  6.4) Put in a few fasterners by hand so it doesn't slide around on you
+  6.4) Put in a few fasteners by hand so it doesn't slide around on you
   6.5) Torque to 25 Nm
 7) Install upper chain cover
   7.1) Clean and prep surfaces
   7.2) Apply 1.8-2mm bead of sealant to surface
-  7.3) Put in a few fasterners by hand so it doesn't slide around on you
+  7.3) Put in a few fasteners by hand so it doesn't slide around on you
   7.4) Torque to 10 Nm
   * Don't forget the 4 (1 external, 3 internal) bolts that go from top down into the lower timing cover
 <div style="text-align: center;">
