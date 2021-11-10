@@ -157,11 +157,11 @@ The [Boost Brothers Kit](https://www.boostbrothersgarage.com/products/944-07k-sw
 
 ### Engine Installation Guide
 
-07k installation tips:
-1) Dont install the starter or RH engine mount until the engine is in the car
+07k installation tips from BBG:
+1) Don't install the starter or RH engine mount until the engine is in the car
 2) Mount the lower sump with the engine out of the car.
 3) Lowering the crossmember makes it possible, dropping it completely makes it a piece of cake.
-If the clutch disk isn't right on center, the tip of the driveshaft isnt going to line up with the pilot bearing. Also, we recommend removing the crossmember completely so you have a clear path to align the engine with the torque tube. And, use an engine leveler on your engine hoist to get it at the correct angle (fore/aft). It also needs to be clocked pretty close to 15 degrees (tilted toward psgr side) so that after you get the engine all the way back, you can get the four torque tube bolts into the back of the bellhousing. Another thing we found helps if the driveshaft spline doesnt want to go into the clutch disk, spin the crank using a strap wrench around the crank pulley while you push the engine back. I know you got further than this, but these tips might help others as well.
+If the clutch disk isn't right on center, the tip of the driveshaft isn't going to line up with the pilot bearing. Also, we recommend removing the crossmember completely so you have a clear path to align the engine with the torque tube. And, use an engine leveler on your engine hoist to get it at the correct angle (fore/aft). It also needs to be clocked pretty close to 15 degrees (tilted toward psgr side) so that after you get the engine all the way back, you can get the four torque tube bolts into the back of the bellhousing. Another thing we found helps if the driveshaft spline doesn't want to go into the clutch disk, spin the crank using a strap wrench around the crank pulley while you push the engine back. I know you got further than this, but these tips might help others as well.
 Other major things to install on the engine before dropping it in: upper oil pan and pickup, oil sump, flywheel, pilot bearing adapter, clutch disk, bellhousing, TOB. Optional: psgr side engine mount.
 
 For the m8 (class 10.9) hex head bolts that fasten the engine mount brackets: 28-30 ft-lb.
