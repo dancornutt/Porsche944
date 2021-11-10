@@ -101,9 +101,14 @@
 
 
 ## Engine Swap Overview
-<img src="https://github.com/dancornutt/Porsche944/blob/master/images/945-race-car.jpg" alt="Porsche 944 Turbo" title="Car Delivery" />
+
+<div style="text-align: center;">
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLWOjUit0CkQeU-JUN8iPu8qsVcEf71RXemidwCuGrlsemiu8iB0BvUN1PkTXPu1APmtjDRg_xTPsj2lNLqKEZrlTccaM1yyfkkq2h_VZGiJQRGmvwpmtCA56k26Rcc-UO_OezEQF8RURnimI-n9LS4n=w1224-h1630-no?authuser=0" alt="944 As Purchases" width="300"/>
+</div>
 
 Getting the 07k in a 944 is fairly straight foward thanks to those who pinoneered it. You'll need the Boost Brothers Garage (BBG) Kit and some other items but there is no major cutting or fabrication needed other than the exhaust and intake plumbing.
+
+Our swap car as seen above is pretty gutted, engine had been in a fire and also say in the elements which rusted out the cylinder walls.
 
 The base engine is out of a 2014 automatic passat, it was supposed to have only 60k on it so we will see how it holds up. The down side is the drivers side engine mount interferes with the BBG bracket slightly. This will have to be clearenced around on of the sensors, auto transmission perhaps.
 
