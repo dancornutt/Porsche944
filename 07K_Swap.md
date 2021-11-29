@@ -252,11 +252,12 @@ Clutch kit from BBG was used, it contains:
 The Aluminum flywheel was sourced from BBG. We aren't going with the 8 bolt TTRS forged crank so the stock 07k 6 bolt flywheel was used.
 - SPEC 02M aluminum flywheel (SV81A)
 
-To give a little extra insurance, ARP crank bolts are to be used. ARP p/n: 1512801 appears to be the correct fasteners for this application.
+To give a little extra insurance, ARP crank bolts are to be used. ARP p/n: 151-2801 appears to be the correct fasteners for this application.
 
 Installation Tips:
   1) Make sure you have the crank position sensor impulse rotor installed
   2) Do not use the stock flywheel shims with new flywheel & clutch kit
+  3) I like to clean off the wear surfaces of the flywheel and pressure plate so manufacturing oils do not make their way to the clutch disk.
 
 
 ### Throwout Bearing
@@ -269,7 +270,9 @@ The throwout bearing is from a Solstice GXP hydraulic TOB (24234308). To use it 
 
 ## Fuel System
 
-Most of the fuel system is just plug and plug other than the firewall mounted fuel regulator.
+Most of the fuel system is just plug and plug other than the firewall mounted fuel regulator. See below for the specific fittings used.
+
+The fuel lines will come from the passenger side to rear fuel rail port, out the front port, into the FPR side port, out the bottom of the FPR and back to the return fuel line on the passenger side.
 
 
 ### Fuel Injectors
@@ -279,17 +282,25 @@ Our base engine didn't come with a fuel rail or injectors. So we sourced the sam
 When installing the fuel injectors, Alan said:
 For our cast aluminum manifold, make sure you install the injectors into the intake manifold first, individually. Also best to use some sort of lube on the injector o-rings such as a dielectric grease. The injector ports are the same size as the ones in the factory manifold, but require some effort to insert the injectors. If you leave the injectors in the rail and try to install it as an assembly you risk them not seating into the manifold properly.
 
+I would agree, installing the injectors into the manifold took considerable effort. I started in a cold garage but then transferred manifold and injectors inside warm house.
+
 
 ### Fuel Regulator
 
-Following the BBG parts list we purchased a fuel regulator and gauge to help troubleshoot any fuel issues should they pop up.
+Following the BBG parts list we purchased the Aeromotive fuel regulator and gauge to help troubleshoot any fuel issues should they pop up.
 
 BBG set fuel pressure to 43.5 psi for the turbo tune with large 60 lb/hr injectors.
+
+The Aeromotive fuel pressure regulator (FPR) has two rail ports and 1 return port (bottom). You'll need to buy an AN-06 plug (p/n: Aeromotive 15626) to plug one of the rail ports.
+
+We mounted the FPR on the passenger side just outboard of the chassis fuel lines.
 
 
 ### Fuel Rail
 
-We could have spent money at the junk yard for a stock fuel rail but where's the fun in that? Billet things are nice so the IE billet fuel rail was sourced.
+We could have spent money at the junk yard for a stock fuel rail but where's the fun in that? Billet things are nice so the IE billet fuel rail was sourced. The IE fuel rail has AN-08 ports in either end. We used an AN-08 to AN-06 reducer (p/n: Summit Racing SUM-220167B) to step down the fuel system from AN-08 to AN-06.
+
+Two fasteners are supplied with the intake manifold hardware to secure the IE rail.
 
 
 ### Fuel Pump
@@ -299,7 +310,7 @@ Most likely we will opt for the Bosch 044 pump but that is still a future purcha
 
 ### Fuel Lines
 
-We are using Vibrant -6 lines, same in the BBG spreadsheet. We may cover the portion near the exhaust with some type of thermal barrier.
+We are using Vibrant AN-06 lines, same in the BBG spreadsheet. We may cover the portion near the exhaust with some type of thermal barrier.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -307,7 +318,7 @@ We are using Vibrant -6 lines, same in the BBG spreadsheet. We may cover the por
 
 ## Ignition System
 
-The only modification required is different coil packs. This is needed to get the proper hood clearance.
+The only modification required is different coil packs. This is needed to get the proper clearance to the stock 944 hood.
 
 
 ### Coil Packs
