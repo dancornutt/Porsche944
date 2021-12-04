@@ -32,7 +32,7 @@
         <li><a href="#alternator">Alternator</a></li>
         <li><a href="#breather">Breather System</a></li>
         <li><a href="#crank-pulley">Crank Pulley</a></li>
-        <li><a href="#power-steering-punmp">Power Steering Pump</a></li>
+        <li><a href="#power-steering-pump">Power Steering Pump</a></li>
         <li><a href="#valve-cover">Valve Cover</a></li>
       </ul>
     </li>
@@ -106,7 +106,7 @@
   <img src="https://lh3.googleusercontent.com/pw/AM-JKLWOjUit0CkQeU-JUN8iPu8qsVcEf71RXemidwCuGrlsemiu8iB0BvUN1PkTXPu1APmtjDRg_xTPsj2lNLqKEZrlTccaM1yyfkkq2h_VZGiJQRGmvwpmtCA56k26Rcc-UO_OezEQF8RURnimI-n9LS4n=w1224-h1630-no?authuser=0" alt="944 As Purchases" width="300"/>
 </div>
 
-Getting the 07k in a 944 is fairly straightfoward thanks to those who pioneered it. You'll need the Boost Brothers Garage (BBG) Kit and some other items but there is no major cutting or fabrication needed other than the exhaust and intake plumbing.
+Getting the 07k in a 944 is fairly straightforward thanks to those who pioneered it. You'll need the Boost Brothers Garage (BBG) Kit and some other items but there is no major cutting or fabrication needed other than the exhaust and intake plumbing.
 
 Our swap car as seen above is pretty gutted, the engine had been in a fire and also sat in the elements which rusted out the cylinder walls.
 
@@ -119,13 +119,13 @@ The 07k engine is only used in the North American, South American, and Middle Ea
 identification
 parts code prefix: 07K
 engine displacement & engine configuration
-2,480 cubic centimetres (151.3 cu in) inline five engine (R5/I5); bore x stroke: 82.5 by 92.8 millimetres (3.25 in × 3.65 in), stroke ratio: 0.89:1 - undersquare/long-stroke, 496.1 cc per cylinder
+2,480 cubic centimeters (151.3 cu in) inline five engine (R5/I5); bore x stroke: 82.5 by 92.8 millimeters (3.25 in × 3.65 in), stroke ratio: 0.89:1 - under-square/long-stroke, 496.1 cc per cylinder
 cylinder block & crankcase
 GJL250 grey cast iron; two-part oil sump, die-forged steel crankshaft with six main bearings, water-cooled oil cooler
 cylinder head & valvetrain
-cast aluminium alloy; four valves per cylinder, 20 valves total, low-friction roller finger cam followers with automatic hydraulic valve clearance compensation, chain-driven (relay method, using two simplex roller chains) double overhead camshaft (DOHC), variable intake valve timing
+cast aluminum alloy; four valves per cylinder, 20 valves total, low-friction roller finger cam followers with automatic hydraulic valve clearance compensation, chain-driven (relay method, using two simplex roller chains) double overhead camshaft (DOHC), variable intake valve timing
 aspiration
-cast aluminium intake manifold, single throttle body with electronically controlled 'drive by wire' throttle butterfly valve
+cast aluminum intake manifold, single throttle body with electronically controlled 'drive by wire' throttle butterfly valve
 fuel system
 common rail multi-point electronic sequential indirect fuel injection with five intake manifold-sited fuel injectors
 ignition system & engine management
@@ -217,15 +217,31 @@ For this build we are going down the route of option #2 using an air/oil separat
 
 The stock crank pulley definitely works but there have been documented cases of throwing belts at higher RPMs. To get around this use the TTRS/RS3 crank pulley, p/n: 07K105243H. Audi uses a viscous center pulley to reduce the high RPM vibration and keep your belts, well belted.
 
+VW Book torque value is 50 Nm + 90° turn with note of always replace bolts.
+
 
 ### Power Steering Pump
 
 The original power steering pump will not work with this swap. The swap allows use of a 1.8t power steering pulley and to have it relocated to the lowermost location on the accessory bracket.
 
+Our can has a manual steering rack so the power steering pump it not needed. That being said the pump pulley is a dual pulley and is needed to run the alternator and water pump.
+
+We are investigating using a dummy pump or A/C compressor to allow the water pump and alternator to be run.
+
 
 ### Valve Cover
 
 The BBG kit uses a billet valve cover. This is required for clearance of the stock 944 hood. At the rear of the valve cover is a -10 AN line to allow for crankcase venting. See Breather section. The BBG kit comes with all required hardware.
+
+Steps:
+  1) Remove plastic valve cover and gasket
+  2) Clean surfaces of head and new valve cover
+  3) Put very small dab or grease in all 0-ring pockets in new valve cover
+  4) Install o-rings and push into grease to be retained during installation
+  5) Apply sealant Victor Reinz 000-043-203-73 to gasket pocket of valve cover. Should be just enough that sealant is slightly above well. Be careful not to overfill!
+  6) Immediately install valve cover with a bolt at either end to prevent valve cover moving, just run fasteners down by hand with no torque.
+  7) Install all fasteners by hand
+  8) Tighten to hand tight
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -242,22 +258,37 @@ The custom bellhousing was sourced from BBG. I would recommend test installing t
 
 ### Clutch
 
-Clutch kit from BBG was used, it contains:
+Clutch kit SPEC Stage 2+ from BBG (BBG p/n: 07K-Spec-S2+) was used, it contains:
 - SPEC 02M pressure plate
 - SPEC 944 Turbo disk
+
+Still need to identify the correct torque value for pressure plate bolts.
+
+Installation Steps:
+  1) Make sure flywheel wear surface and pressure plate wear surfaces are cleaned from any manufacturing oils
+  2) Use clutch centering tool to align clutch disk. Make sure clutch disk is facing appropriate side (flywheel or pressure plate)
+  3) I opted for blue loctite on the pressure plate bolts. Run pressure plate bolts in by hand in crisscross pattern ramping up to the final torque value of XX ft-lb
 
 
 ### Flywheel
 
-The Aluminum flywheel was sourced from BBG. We aren't going with the 8 bolt TTRS forged crank so the stock 07k 6 bolt flywheel was used.
-- SPEC 02M aluminum flywheel (SV81A)
+The Aluminum flywheel was sourced from BBG. We aren't going with the 8 bolt TTRS forged crank so the 07k 6 bolt pattern flywheel was used.
+- SPEC 02M aluminum flywheel (SPEC p/n: SV81A or BBG p/n: Spec-07K-FW-6Bolt-Alum)
 
 To give a little extra insurance, ARP crank bolts are to be used. ARP p/n: 151-2801 appears to be the correct fasteners for this application.
 
-Installation Tips:
+For the flywheel bolts are m10 x 1.0 (class 12.9). It is a bit of choose your own adventure depending if you use the VW stock flywheel bolts (not recommended) or the BBG supplied or purchase the APR bolts. Note: the BBG and APR bolts are slightly longer at around 1 1/8" in length.
+- VW factory flywheel bolt torque spec is 60 Nm + 90° turn (always replace) 
+- BBG loose recommendation is around 64 ft-lb
+- [APR recommendation](https://tech.arp-bolts.com/instructions/151-2801.pdf) is ramping up to 70 ft-lb
+
+Installation Steps:
   1) Make sure you have the crank position sensor impulse rotor installed
-  2) Do not use the stock flywheel shims with new flywheel & clutch kit
-  3) I like to clean off the wear surfaces of the flywheel and pressure plate so manufacturing oils do not make their way to the clutch disk.
+  2) Do not use the stock flywheel shims with new flywheel & clutch kit (comment from RL forums)
+  3) Clean off the wear surfaces of the flywheel and pressure plate so manufacturing oils do not make their way to the clutch disk
+  4) Install flywheel and follow bolt torque spec (see above). Be sure to use BBG supplied or APR hardware (not from SPEC). Use center pilot bearing carrier and pilot bearing
+  
+
 
 
 ### Throwout Bearing
@@ -272,7 +303,7 @@ The throwout bearing is from a Solstice GXP hydraulic TOB (24234308). To use it 
 
 Most of the fuel system is just plug and plug other than the firewall mounted fuel regulator. See below for the specific fittings used.
 
-The fuel lines will come from the passenger side to rear fuel rail port, out the front port, into the FPR side port, out the bottom of the FPR and back to the return fuel line on the passenger side.
+The fuel supply line will come from the passenger side to front of the fuel rail, out the back of fuel rail, into the FPR side port, out the bottom of the FPR and to the return fuel line on the passenger side.
 
 
 ### Fuel Injectors
@@ -294,6 +325,8 @@ BBG set fuel pressure to 43.5 psi for the turbo tune with large 60 lb/hr injecto
 The Aeromotive fuel pressure regulator (FPR) has two rail ports and 1 return port (bottom). You'll need to buy an AN-06 plug (p/n: Aeromotive 15626) to plug one of the rail ports.
 
 We mounted the FPR on the passenger side just outboard of the chassis fuel lines.
+
+Don't forget to connect the FPR port to a manifold port. This allows the fuel pressure to be constant with respect to the actual pressure of the manifold whether that is vacuum or above ambient pressure under boost.
 
 
 ### Fuel Rail
@@ -346,10 +379,10 @@ Longer exhaust head studs are needed, m8 x 1.25 55mm long. We did fancy things a
 
 ### Wastegate
 
-External waste gate will is Tial MVS 38mm vband
+External waste gate will is Tial MVS 38mm v-band
 - T3 to v-band adaptor is needed between the turbo and header
 
-* Optional - Use 2 bolt 38mm to [vband adaptor](https://www.extremepsi.com/store/Torque-Solution-38mm-2-bolt-to-38mm-V-band-MVS-Wastegate-Adapter.html) for wastegate and v-band wastegate to clock wastegate to exit rear
+* Optional - Use 2 bolt 38mm to [v-band adaptor](https://www.extremepsi.com/store/Torque-Solution-38mm-2-bolt-to-38mm-V-band-MVS-Wastegate-Adapter.html) for wastegate and v-band wastegate to clock wastegate to exit rear
 
 
 ### Exhaust System
@@ -463,7 +496,7 @@ When fitting the upper pan, it was found out that the original hardware won't qu
 
 It was recommended by Mike at BBG that you remove the rear lower and upper chain covers. This would provide a simple "drop in" for the upper pan vs trying to maintain a good seal while attaching to two perpendicular surfaces (block and rear lower chain cover).
 
-For the oil pans and chain covers, volkswagen D 176 501 A1 was used. D 154 103 A1 will be used for the timing cover.
+For the oil pans, chain covers, and timing cover Victor Reinz 000-043-203-73 was used. I initially bought VW sealant but both the back and green stuff didn't properly cure and had to be replaced.
 
 Steps:
 1) Disassemble everything you need to
