@@ -267,7 +267,7 @@ Still need to identify the correct torque value for pressure plate bolts.
 Installation Steps:
   1) Make sure flywheel wear surface and pressure plate wear surfaces are cleaned from any manufacturing oils
   2) Use clutch centering tool to align clutch disk. Make sure clutch disk is facing appropriate side (flywheel or pressure plate)
-  3) I opted for blue loctite on the pressure plate bolts. Run pressure plate bolts in by hand in crisscross pattern ramping up to the final torque value of XX ft-lb
+  3) I opted for blue loctite on the pressure plate bolts. Run pressure plate bolts in by hand in crisscross pattern ramping up to the final torque value of 20 ft-lb
 
 
 ### Flywheel
@@ -286,7 +286,8 @@ Installation Steps:
   1) Make sure you have the crank position sensor impulse rotor installed
   2) Do not use the stock flywheel shims with new flywheel & clutch kit (comment from RL forums)
   3) Clean off the wear surfaces of the flywheel and pressure plate so manufacturing oils do not make their way to the clutch disk
-  4) Install flywheel and follow bolt torque spec (see above). Be sure to use BBG supplied or APR hardware (not from SPEC). Use center pilot bearing carrier and pilot bearing
+  4) Install the pilot bearing into the carrier, numbers should be facing the clutch pressure plate so that the internal seal can keep the clutch disk dust away from bearing rollers.
+  5) Install flywheel and follow bolt torque spec (see above). Be sure to use BBG supplied or APR hardware (not from SPEC). Use center pilot bearing carrier with pilot bearing installed. The carrier is directional to make sure you have the correct orientation.
   
 
 
